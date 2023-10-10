@@ -1,0 +1,17 @@
+{
+  "compileOnSave": true,
+  "compilerOptions": {
+    "target": "ES6",
+    "moduleResolution": "Node",
+    "module":"CommonJS",
+    "esModuleInterop": true,
+    "removeComments": true,
+    // "noEmit": true,
+    // "noEmitOnError": true,
+    "forceConsistentCasingInFileNames": true,
+  },
+  "exclude": [
+    "node_modules",
+    "interfaces"
+  ]
+}
